@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+.block {
+  display: block;
+<div class="container-fluid">
+  border: none;
+  background-color: aquamarine;
+  color: coral;
+  padding: 100%;
+  cursor: pointer;
+  text-align: center;
+}
+
+.block:hover {
+  background-color: aquamarine;
+  color: blue;
+}
+</style>
+
+<button onclick="index.html';"class="block"> </button>
+
+</head>
+<body>
+
+
+<style>
+.block {
+  display: block;
+<div class="container-fluid">
+  border: none;
+  background-color: blue;
+  color: coral;
+  padding: 120px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.block:hover {
+  background-color: aquamarine;
+  color: blue;
+}
+</style>
+
+<button onclick="index.html';"class="block"> </button>
+
+</body>
+</html>
